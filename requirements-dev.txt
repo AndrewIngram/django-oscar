@@ -9,3 +9,4 @@ flake8==0.8
 pysolr==2.0.13
 PyZen==0.3.1
 mock==0.7.0
+-e git+https://github.com/arskom/rpclib.git@soaplib-2_0#egg=soaplib
